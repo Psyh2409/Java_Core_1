@@ -11,7 +11,8 @@ public class HomeWork1 {
 		arrSorter(intArr);
 		System.out.print("max value is " + intArr[intArr.length - 1] + " and min value is " + intArr[0] + ".");
 	}
-
+	
+	
 	public static void primitivesDemo() {
 		byte b = 5;
 		short s = 128;
